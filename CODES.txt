@@ -1,0 +1,15 @@
+linux codes
+PWD :  to know where you are
+CD .. :to go back one step
+CD { the name of the folder} : it let you go dircte to the file 
+SUDO ADDUSER :add user
+LS :show you all the files in the folder 
+LS -L or LS -LTR : show you  the file permissions
+CAT {the file name }:to know what the file has with out change
+VI : create a new file and you can edit on it
+CHMOD :you can change the permission of the file
+ESC ESC :Q  : exit without save
+ESC :WQ  : exit with save 
+SSH : gose to the EC2
+SUDO US : admin rights
+RM : REMOVE
